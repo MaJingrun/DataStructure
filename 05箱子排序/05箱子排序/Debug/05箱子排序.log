@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\workspace\visul studio\0课本源码\datastructure\05箱子排序\05箱子排序\linkedlist.h(146): warning C4566: 由通用字符名称“\uFFFD”表示的字符不能在当前代码页(936)中表示出来
+d:\workspace\visul studio\0课本源码\datastructure\05箱子排序\05箱子排序\linkedlist.h(146): warning C4566: 由通用字符名称“\u00F4”表示的字符不能在当前代码页(936)中表示出来
+  05箱子排序.vcxproj -> D:\Workspace\visul studio\0课本源码\DataStructure\05箱子排序\Debug\05箱子排序.exe
+  05箱子排序.vcxproj -> D:\Workspace\visul studio\0课本源码\DataStructure\05箱子排序\Debug\05箱子排序.pdb (Full PDB)
